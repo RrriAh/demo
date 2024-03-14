@@ -60,7 +60,7 @@
       "thumbnail": "https://picsum.photos/id/437/400/400"
     }
   ],
-  "items":[
+  "items": [
   {
     "id": 1,
     "listId": 1,
@@ -83,7 +83,7 @@
     "price": 8.99
   }
 ],
-  "lists":[
+  "lists": [
   {
     "id": 1,
     "title": "Daily groceries"
