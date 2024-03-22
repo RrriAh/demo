@@ -22,88 +22,7 @@
       "price": 8.99
     }
   ],
-  "itemsn": [
-    {
-      "id": 1,
-      "listId": 1,
-      "title": "earpods",
-      "quantity": 1,
-      "price": 80,
-      "from": "Alice",
-      "to": "Lily",
-      "note":"HBD!"
-    },
-    {
-      "id": 2,
-      "listId": 1,
-      "title": "PS Vita",
-      "quantity": 1,
-      "price": 200,
-      "from": "Lily",
-      "to": "Alice",
-      "note":"Enjoy :)"
-    },
-    {
-      "id": 3,
-      "listId": 5,
-      "title": "Birthday Cake",
-      "quantity": 1,
-      "price": 32.5,
-      "from": "Tracy",
-      "to": "Alice",
-      "note":"Cuuuuute!!!"
-    },
-    {
-      "id": 4,
-      "listId": 5,
-      "title": "Fabulous Fruit Apple",
-      "quantity": 1,
-      "price": 14,
-      "from": "Ciccy",
-      "to": "Tracy",
-      "note":"An Apple A Day..."
-    },
-    {
-      "id": 5,
-      "listId": 2,
-      "title": "Flowers for Algernon",
-      "quantity": 1,
-      "price": 15.99,
-      "from": "Suis",
-      "to": "Ciccy",
-      "note":"My fav!"
-    },
-    {
-      "id": 6,
-      "listId": 3,
-      "title": "Breath of the Wild",
-      "quantity": 1,
-      "price": 44.99,
-      "from": "Suis",
-      "to": "Alice",
-      "note":"Link be careful!"
-    },
-    {
-      "id": 7,
-      "listId": 4,
-      "title": "Evermore",
-      "quantity": 1,
-      "price": 13.98,
-      "from": "Alice",
-      "to": "Tracy",
-      "note":"Willow the best!"
-    },
-    {
-      "id": 8,
-      "listId": 4,
-      "title": "Evermore",
-      "quantity": 1,
-      "price": 13.98,
-      "from": "Tracy",
-      "to": "Alice",
-      "note":"Gold Rush the best!"
-    }
-  ],
+
   "lists": [
     {
       "id": 1,
@@ -114,28 +33,7 @@
       "title": "Birthday"
     }
   ],
-  "listsn": [
-    {
-      "id": 1,
-      "title": "Devices"
-    },
-    {
-      "id": 2,
-      "title": "Books"
-    },
-    {
-      "id": 3,
-      "title": "Games"
-    },
-    {
-      "id": 4,
-      "title": "Albums"
-    },
-    {
-      "id": 5,
-      "title": "Jellycats"
-    }
-  ],
+ 
   "tasks": [
     {
       "id": 1,
@@ -180,22 +78,4 @@
       "lane": 4
     }
   ],
-  "hotels": [
-    {
-      "id": 1,
-      "title": "Downtown Hotel (***)",
-      "thumbnail": "https://picsum.photos/id/369/400/400"
-    },
-    {
-      "id": 2,
-      "title": "Fairytail castle (*****)",
-      "thumbnail": "https://picsum.photos/id/1040/400/400"
-    },
-    {
-      "id": 3,
-      "title": "Local Bed and Breakfast (**)",
-      "thumbnail": "https://picsum.photos/id/437/400/400"
-    }
-  ]
-
 }
