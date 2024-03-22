@@ -22,7 +22,7 @@
       "price": 8.99
     }
   ],
-  "items2": [
+  "itemsn": [
     {
       "id": 1,
       "listId": 1,
@@ -114,7 +114,7 @@
       "title": "Birthday"
     }
   ],
-  "lists2": [
+  "listsn": [
     {
       "id": 1,
       "title": "Devices"
