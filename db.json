@@ -81,7 +81,7 @@
       "price": 44.99,
       "from": "Suis",
       "to": "Alice",
-      "note":"リンク 気をつけて"
+      "note":"Link be careful!"
     },
     {
       "id": 7,
@@ -102,8 +102,7 @@
       "from": "Tracy",
       "to": "Alice",
       "note":"Gold Rush the best!"
-    },
-    
+    }
   ],
   "lists": [
     {
@@ -135,7 +134,7 @@
     {
       "id": 5,
       "title": "Jellycats"
-    },
+    }
   ],
   "tasks": [
     {
